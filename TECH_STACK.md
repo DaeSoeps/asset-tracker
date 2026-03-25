@@ -1,18 +1,18 @@
 # TECH_STACK.md
 
-## Backend (current)
-- Language: Java 17
-- Framework: Spring Boot 3.x
-- Build: Gradle Wrapper
-- DB (dev): H2
+## 백엔드 (현재)
+- 언어: Java 17
+- 프레임워크: Spring Boot 3.x
+- 빌드: Gradle Wrapper
+- DB(개발): H2
 
-## Frontend (planned)
-- Status: not added yet
-- Rule: once selected, record framework/runtime/package manager here
+## 프론트엔드 (예정)
+- 상태: 아직 미구성
+- 규칙: 프레임워크/런타임/패키지 매니저 확정 시 이 문서에 즉시 기록
 
-## Infra / Tooling
-- VCS: Git + GitHub
-- Branch base: `main`
+## 인프라 / 도구
+- 버전관리: Git + GitHub
+- 기본 브랜치: `main`
 
-## Update Rule
-- When stack changes, update this file in the same commit/PR.
+## 갱신 규칙
+- 스택 변경 시 같은 커밋/PR에서 이 문서를 함께 수정
