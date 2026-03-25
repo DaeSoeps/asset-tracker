@@ -24,7 +24,6 @@
   - 사용자 이슈(User Issue)
   - 조치(Action Taken)
   - 결과/상태(Result / Status)
-- 기존 `issues/YYYY-MM-DD.md` 단일 로그는 레거시로 보관하고, 신규 로그부터 분리 정책을 적용한다.
 
 ## 작업 원칙
 - 요청 범위를 벗어나는 리팩터링은 하지 않는다.
